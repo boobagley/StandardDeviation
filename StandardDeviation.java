@@ -3,7 +3,7 @@ public class StandardDeviation
 	public static void main(String[] args)
 	{
         double[] x = new double[] { -5, 1, 8, 7, 2 };
-        int n =5;
+        int n = x.length;
         double mean = 0;
         double StdDev = 0;
 
